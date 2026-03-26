@@ -87,3 +87,11 @@ def load_businesses():
         data = json.load(f)
 
     return [Business.from_dict(item) for item in data]
+
+
+loaded_businesses = load_businesses
+for b in loaded_businesses:
+    print(b)
+    
+    
+
