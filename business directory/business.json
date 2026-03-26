@@ -1,0 +1,27 @@
+
+[ 
+    {
+        "name": "Santarpio's Pizza",
+        "address": "111 Chelsea St, East Boston, MA 02128",
+        "category": "Pizza",
+        "rating": 4.8
+    },
+    { 
+        "name": "Phinista",
+        "address": "96 Peterborough St, Boston MA 02215",
+        "category": "Coffee",
+        "rating": 4.4
+        
+    },
+    {"name": "L.A. Burdick Handmade Chocolates",
+        "address": "220 Clarendon St., Boston  02166",
+        "category": "Chocolatier",
+        "rating": 5.0
+    },
+     {"name": "Playa Bowls",
+        "address": "471 W Broadway, South Boston, MA 02127",
+        "category": "Smoothies",
+        "rating": 4.8
+    }
+]
+
